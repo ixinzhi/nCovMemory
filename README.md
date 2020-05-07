@@ -1,8 +1,6 @@
 # 2020新冠肺炎记忆：报道、非虚构与个人叙述（备份）
 
-> 原Project（[2019ncovmemory
-/nCovMemory](https://github.com/2019ncovmemory
-/nCovMemory)）已消失，感谢志愿者的辛劳操作。
+> 原Project（[2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory)）已消失，感谢志愿者的辛劳操作。
 > 
 > EPUB 电子书请见仓库。
 
